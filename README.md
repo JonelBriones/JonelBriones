@@ -1,7 +1,7 @@
 👋 Hello!
 
 My name is Jonel (Joe-nel)
-I am currently a student at Coding Dojo Bootcamp where I will be learning the prcoess of Full Stack! 
+I am currently a student at Coding Dojo Bootcamp where I will be learning the process of Full Stack! 
 
 I have completed Webfundamentals such as how to construct a simple static website. 
 Currently learning Python,MySQL and Flask.
