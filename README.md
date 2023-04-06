@@ -1,19 +1,13 @@
-👋 Hello!
+# 👋 Hello, I'm Jonel, an IT Professional
+## Information Technology Projects:
+- osTicket (Help Desk Ticketing System)
+  - osTicket: Prerequisites and Installation
+  - osTicket: Post-Installation Configuration
+  - osTicket: Ticket Lifecycle Examples
+ 
+- Microsoft Azure
+  - Configuring On-premises Active Directory within Azure VMs
+  - Network Security Groups (NSGs) and Inspecting Network Protocols
 
-My name is Jonel (Joe-nel)
-I am currently a student at Coding Dojo Bootcamp where I will be learning the process of Full Stack! 
-
-I have completed Webfundamentals such as how to construct a simple static website. 
-Currently learning Python,MySQL and Flask.
-
-💬  About Me!
-My hobbies are videography, powerlifting, gaming, coding!
-
-📺 Favorite Genres of shows!
-Anime,Kdrama,Comedy
-
-⚡ Fun facts!
-I have a dog named Ryu named after the Street Fighter character (His fur is white).
-I had a Jedi Tail (A reference to Star Wars) for 11 years which I sadly decided to cut off however is kept in a safe place!
-
-😄 Pronouns: He/Him
+## Socials:
+<a href="https://www.linkedin.com/in/jonel-briones-64bb8521b" rel="nofollow" target="blank"><img align="left" alt="Jonel | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/90445143/230379438-6243006a-2981-4e90-9968-457c9f20e026.png" style="max-width: 100%;"></a>
