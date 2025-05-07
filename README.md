@@ -24,8 +24,6 @@
 ### 🚀 Coding Projects
 -  This is my website that has shows my coding projects <a href="https://jonelbriones.com/" rel="nofollow" target="_blank">jonelbriones.com</a>
 
-### ⚡ Fun Fact  
-My hobbies are powerlifting, consuming and uploading to tiktok and trying to get my six pack (24 years in progress)
 ---
 Let's connect and build something awesome! 🚀  
 
