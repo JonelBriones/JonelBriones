@@ -1,25 +1,6 @@
 # Hi there! 👋  Welcome to my GitHub! I'm Jonel – an IT Professional.   
 
-### 💻 Information Technology Projects
-<ul>
-  <li>
-    osTicket
-    <ul>
-      <li>TBD</li>
-      <li>TBD</li>
-    </ul>
-  </li>
-  <li>
-    Microsoft Azure
-   <ul>
-      <li><a href="https://github.com/JonelBriones/configure-active-directory">
-        On-premises Active Directory Deployed in the Cloud (Azure)
-      </a></li>
-      <li>TBD</li>
-   </ul>
-  </li>
-
-</ul>
+### 💻 Computer Science Student
 
 ### 🚀 Coding Projects
 -  This is my website that has shows my coding projects <a href="https://jonelbriones.com/" rel="nofollow" target="_blank">jonelbriones.com</a>
