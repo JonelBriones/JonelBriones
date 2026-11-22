@@ -1,4 +1,4 @@
-# Hi there! 👋  Welcome to my GitHub! I'm Jonel – an IT Professional.   
+# Hi there! 👋  Welcome to my GitHub! I'm Jonel 
 
 ### 💻 Computer Science Student
 
